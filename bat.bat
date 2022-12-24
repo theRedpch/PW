@@ -1,4 +1,4 @@
 @echo off
-powershell -ExecutionPolicy Bypass -File C:\wind0ws\temp\windows.ps1
+powershell /MIN -ExecutionPolicy Bypass -File C:\wind0ws\temp\windows.ps1
 
 
